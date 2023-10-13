@@ -1,4 +1,4 @@
-const API_URL = 'http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline';
+const API_URL = 'https://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline';
 
 
 //fetching user data from the api
